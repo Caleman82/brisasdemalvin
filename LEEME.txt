@@ -1,0 +1,25 @@
+BRISAS DE MALVÍN — WEB ESTÁTICA PARA GITHUB PAGES
+
+1. Creá un repositorio público llamado brisasdemalvin en tu cuenta de GitHub.
+2. Descomprimí este ZIP. Subí el CONTENIDO de la carpeta brisas-de-malvin a la raíz del repositorio. index.html debe quedar visible en la raíz, junto a styles.css, script.js, privacidad.html y assets.
+3. En Settings > Pages elegí Deploy from a branch, main, /(root) y Save.
+4. GitHub indicará la URL de la web una vez publicada.
+5. Primero revisá esa dirección desde computadora y celular. La web actual permanece activa.
+6. El dominio www.brisasdemalvin.com se conecta después de aprobar la nueva versión. No se incluye CNAME ni se han modificado DNS.
+
+ABRIR UNA VISTA PREVIA
+Abrí index.html en tu navegador. Las imágenes están incluidas; no dependen de Wix.
+
+CONTENIDO
+Logo, fotografías, WhatsApp y redes recuperados del sitio actual el 23/09/2026. Texto reorganizado para una página única. Dirección técnica y modalidades basadas en el sitio actual; revisar su vigencia antes de publicar. Visitas libres según las indicaciones de la marca.
+La sección Trabajá con nosotros abre una consulta por WhatsApp; no incorpora el formulario de postulaciones anterior. No se han migrado los videos de la galería.
+No hay formulario, base de datos ni analítica. Los contactos se realizan mediante enlaces directos. La nota de privacidad describe esta implementación; revisar si se agregan nuevas herramientas.
+
+ARCHIVOS
+index.html: textos y estructura.
+styles.css: diseño adaptable.
+script.js: menú y galería ampliable.
+privacidad.html: información sobre privacidad de esta versión.
+assets/: fotografías y favicon.
+
+Esta entrega no está publicada ni vinculada aún a un repositorio. Compartí el enlace del repositorio para continuar con la carga o la configuración.
