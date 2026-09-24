@@ -1,25 +1,17 @@
-BRISAS DE MALVÍN — WEB ESTÁTICA PARA GITHUB PAGES
+BRISAS DE MALVÍN — CINCO PÁGINAS
 
-1. Creá un repositorio público llamado brisasdemalvin en tu cuenta de GitHub.
-2. Descomprimí este ZIP. Subí el CONTENIDO de la carpeta brisas-de-malvin a la raíz del repositorio. index.html debe quedar visible en la raíz, junto a styles.css, script.js, privacidad.html y assets.
-3. En Settings > Pages elegí Deploy from a branch, main, /(root) y Save.
-4. GitHub indicará la URL de la web una vez publicada.
-5. Primero revisá esa dirección desde computadora y celular. La web actual permanece activa.
-6. El dominio www.brisasdemalvin.com se conecta después de aprobar la nueva versión. No se incluye CNAME ni se han modificado DNS.
+Todo el contenido de este ZIP se sube en la RAÍZ del repositorio, junto al README. No crear carpetas. Reemplaza index.html, styles.css y script.js; las otras cuatro páginas son nuevas. Las imágenes y videos también van en la raíz.
 
-ABRIR UNA VISTA PREVIA
-Abrí index.html en tu navegador. Las imágenes están incluidas; no dependen de Wix.
+1. Descomprimir el ZIP.
+2. GitHub > repositorio brisasdemalvin > Add file > Upload files.
+3. Seleccionar los archivos descomprimidos, NO el ZIP ni una carpeta.
+4. Confirmar con Commit changes.
+5. Revisar https://caleman82.github.io/brisasdemalvin/ una vez finalizada la publicación.
 
-CONTENIDO
-Logo, fotografías, WhatsApp y redes recuperados del sitio actual el 23/09/2026. Texto reorganizado para una página única. Dirección técnica y modalidades basadas en el sitio actual; revisar su vigencia antes de publicar. Visitas libres según las indicaciones de la marca.
-La sección Trabajá con nosotros abre una consulta por WhatsApp; no incorpora el formulario de postulaciones anterior. No se han migrado los videos de la galería.
-No hay formulario, base de datos ni analítica. Los contactos se realizan mediante enlaces directos. La nota de privacidad describe esta implementación; revisar si se agregan nuevas herramientas.
+Las páginas son index.html, nosotros.html, servicios.html, galeria.html y contacto.html. Para copiar el código manualmente, abrir cada HTML con un editor de texto; estilos compartidos en styles.css y funcionamiento en script.js.
 
-ARCHIVOS
-index.html: textos y estructura.
-styles.css: diseño adaptable.
-script.js: menú y galería ampliable.
-privacidad.html: información sobre privacidad de esta versión.
-assets/: fotografías y favicon.
+Videos incluidos: video-residencial.mp4, video-gabriela.mp4 y video-jupiter.mp4. Las tres imágenes con iguales nombres .jpg son sus portadas. No renombrar archivos.
 
-Esta entrega no está publicada ni vinculada aún a un repositorio. Compartí el enlace del repositorio para continuar con la carga o la configuración.
+Abrir index.html en el navegador para revisar la web localmente. Todos los recursos están incluidos. No depende de Wix ni de la carpeta assets antigua. Esa carpeta y privacidad.html anteriores pueden permanecer: estas páginas no los utilizan.
+
+Los videos conservan imagen y sonido originales, con una reorganización técnica para facilitar la reproducción. No hay reproducción automática ni formularios. Contacto y postulaciones abren WhatsApp. No se realizaron cambios de dominio ni publicación desde este entorno.
