@@ -1,0 +1,17 @@
+ACTUALIZACIÓN: TRABAJÁ CON NOSOTROS
+
+Subí todos los archivos de este ZIP, descomprimidos, a la raíz del repositorio brisasdemalvin. Confirma reemplazar los archivos con el mismo nombre. No borres ni vuelvas a subir fotos ni videos. robots.txt y CNAME no se modifican.
+
+NUEVA PÁGINA: https://www.brisasdemalvin.com/trabaja-con-nosotros.html
+
+ACTIVACIÓN NECESARIA
+1. Una vez publicado, completá el formulario con tus datos de prueba y un documento de prueba, identificado claramente como PRUEBA.
+2. FormSubmit enviará un correo de activación a brisasdemalvin@gmail.com. Revisar también Spam y confirmar desde ese correo. No se requiere una cuenta nueva.
+3. Tras activar, enviá una NUEVA prueba con CV adjunto. No des por entregada la primera prueba.
+4. Confirmá que el mensaje y el adjunto lleguen a brisasdemalvin@gmail.com y a brisasdemalvin.creativa@gmail.com. El segundo está configurado como copia (CC).
+5. No difundir el formulario hasta completar esta comprobación. No se ha realizado un envío real ni verificado la entrega desde este entorno.
+
+FUNCIONAMIENTO
+Todos los campos visibles son obligatorios, incluida la autorización de uso de datos y el CV. PDF/DOC/DOCX, máximo 5 MB, validado en el navegador. Las validaciones del navegador no equivalen a una política de validación propia en el servidor. FormSubmit procesa los archivos y entrega los correos; no se guardan CV en el repositorio público de GitHub. El envío normal abre la comprobación de seguridad de FormSubmit y vuelve a postulacion-enviada.html cuando finaliza. El servicio externo debe estar operativo. La página de confirmación no prueba por sí sola la llegada a ambas casillas.
+
+Incluye enlaces en las cinco páginas existentes, el formulario, página de confirmación, estilos, JavaScript y sitemap actualizado con seis páginas. La confirmación está marcada noindex.
